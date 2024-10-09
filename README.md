@@ -1,6 +1,7 @@
 # hh_parser
 Parser for research info of vacancies of 'Data Analyst', 'Data Science',  'Data Engineer'
-Парсер вакансий ('Data Analyst', 'Data Science',  'Data Engineer') работает через API hh.ru. Путем запроса (json формат) получает информацию о вакансиях в городе (городах), с последующим сохранением в базе данных Postgres. Ссылка на документацию к API -https://api.hh.ru/openapi/redoc#section/Obshaya-informaciya\n
+Парсер вакансий ('Data Analyst', 'Data Science',  'Data Engineer') работает через API hh.ru. Путем запроса (json формат) получает информацию о вакансиях в городе (городах), с последующим сохранением в базе данных Postgres. Ссылка на документацию к API -https://api.hh.ru/openapi/redoc#section/Obshaya-informaciya
+
 Ссылка на прототип парсера через API hh.ru - https://github.com/shakhbanov/HeadHunter
 
 1. Клонирование репозитория 
