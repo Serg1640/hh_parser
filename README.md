@@ -42,5 +42,5 @@ Parser for research info of vacancies of 'Data Analyst', 'Data Science',  'Data 
 8) Запрос к информации из БД. Структура запроса: сортировка по условию - названия профессий ('Data Analyst', 'Data Science',  'Data Engineer'), подсчет количество вакансий по профессии по требованию к стажу (нет опыта - junior, опыт от 1 года до 3 лет - middle, опыт от 3 до 6 лет - middle+, опыт более 6 лет - senior).
     ![image](https://github.com/user-attachments/assets/321b6cd1-8d37-4166-b7a5-851a206c6820)
 
-9) Подготовка графического представления в формате a pie: количество вакансий по отношению к требованию по возрасту. К примеру, вакансии Data Engineer в г. Москва       
+9) Подготовка графического представления в формате a pie: количество вакансий по отношению к требованию по опыту. К примеру, вакансии Data Engineer в г. Москва       
 ![image](https://github.com/user-attachments/assets/4c6e33bd-8dfa-4c53-b8bc-063be2e596f2)
